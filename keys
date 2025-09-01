@@ -1,10 +1,10 @@
 {
-  "version": V1.0,
+  "version": "1.0",
   "keys": [
-    "MATTHEW-x6W9yfTeHk-XG3KDHEycO",
+    "MATTHEW-x6W9yfTeHk-XG3KDHfycO",
     "TEST-1234",
-    "MATT-fr198shVZG"
+    "MATT-fR198shVZG"
   ],
   "hwid_lock": false,
-  "note": "可选，给自己看的备注"
+  "note": "optional remark"
 }

@@ -1,10 +1,11 @@
 {
- "version": "1.0",
- "keys": [
-  "MATTHEW-x6W9yfTeHk-XG3KDHfycO",
-  "YIFAN-pFCFY6dZO-D1acBbtuoI",
-  "CHAOSAN-Z4UYtzA7A-E9jIvpIman"
- ],
- "hwid_lock": false,
- "note": "optional remark"
+  "version": "1.0",
+  "keys": [
+    "MATTHEW-x6W9yfTeHk-XG3KDHfycO",
+    "YIFAN-pFCFY6dZO-D1acBbtuoI",
+    "CHAOSAN-Z4UYtzA7A-E9jIvpIman",
+    "LUCKY-eth5pd9tcL-nAE8bQ7pzR"
+  ],
+  "hwid_lock": false,
+  "note": "optional remark"
 }
